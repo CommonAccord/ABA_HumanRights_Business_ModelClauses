@@ -27,6 +27,8 @@ DefT.=[G/AgtForm/US/Def/Link/0.md]
 
 _=[G/AgtForm/US/Def/Link/0.md]
 
+RemediationPlan.XnumAndScheduleQ={RemediatingAdverseImpacts.RemediationPlan.Xnum} and/or Schedule Q
+
 Note=These definitions are too particular to be included in the general library of defined terms in US/Def/Link/0.md.
 
 DefT.OLGM={_OLGM}
@@ -37,7 +39,7 @@ DefT.OECD_Due_Diligence_Guidance={_OECD_Due_Diligence_Guidance}
 
 _OECD_Due_Diligence_Guidance=<a class='definedterm' href='{!!!}DefT.OECD_Due_Diligence_Guidance'>OECD Due Diligence Guidance</a>
 
-DefT.Zero_Tolerance_Activity=<a class='definedterm' href='{!!!}DefT.Zero_Tolerance_Activity'>Zero_Tolerance_Activity</a>
+DefT.Zero_Tolerance_Activity=<a class='definedterm' href='{!!!}DefT.Zero_Tolerance_Activity'>Zero Tolerance Activity</a>
 
 _Zero_Tolerance_Activity=<a class='definedterm' href='{!!!}DefT.Zero_Tolerance_Activity'>Zero Tolerance Activity</a>
 
@@ -46,18 +48,41 @@ _Zero_Tolerance_Activity=<a class='definedterm' href='{!!!}DefT.Zero_Tolerance_A
 
 ObligationToCombatAbuse.Xnum=<a class='xref' href='{!!!}ObligationToCombatAbuse.Sec'>1</a>
 
-ObligationToCombatAbuse.1.Xnum={ObligationToCombatAbuse.Xnum}.<a class='xref' href='{!!!}ObligationToCombatAbuse.1.Sec'>1</a>
-ObligationToCombatAbuse.2.Xnum={ObligationToCombatAbuse.Xnum}.<a class='xref' href='{!!!}ObligationToCombatAbuse.2.Sec'>2</a>
-ObligationToCombatAbuse.3.Xnum={ObligationToCombatAbuse.Xnum}.<a class='xref' href='{!!!}ObligationToCombatAbuse.3.Sec'>3</a>
-ObligationToCombatAbuse.4.Xnum={ObligationToCombatAbuse.Xnum}.<a class='xref' href='{!!!}ObligationToCombatAbuse.4.Sec'>4</a>
+ObligationToCombatAbuse.RightsCompliance.Xnum={ObligationToCombatAbuse.Xnum}.<a class='xref' href='{!!!}ObligationToCombatAbuse.RightsCompliance.Sec'>1</a>
+
+ObligationToCombatAbuse.RightsCompliance.3.Xnum={ObligationToCombatAbuse.RightsCompliance.Xnum}<a class='xref' href='{!!!}ObligationToCombatAbuse.RightsCompliance.3.sec'>(c)</a>
+
+
+ObligationToCombatAbuse.RightsCompliance.4.Xnum={ObligationToCombatAbuse.RightsCompliance.Xnum}<a class='xref' href='{!!!}ObligationToCombatAbuse.RightsCompliance.4.sec'>(d)</a>
+
+ObligationToCombatAbuse.SupplierRepresentativeDiligence.Xnum={ObligationToCombatAbuse.Xnum}.<a class='xref' href='{!!!}ObligationToCombatAbuse.SupplierRepresentativeDiligence.Sec'>2</a>
+
+ObligationToCombatAbuse.BuyerSupportOfSupplier.Xnum={ObligationToCombatAbuse.Xnum}.<a class='xref' href='{!!!}ObligationToCombatAbuse.BuyerSupportOfSupplier.Sec'>3</a>
+
+ObligationToCombatAbuse.OLGM.Xnum={ObligationToCombatAbuse.Xnum}.<a class='xref' href='{!!!}ObligationToCombatAbuse.OLGM.Sec'>4</a>
 
 RemediatingAdverseImpacts.Xnum=<a class='xref' href='{!!!}RemediatingAdverseImpacts.Sec'>2</a>
+
 RemediatingAdverseImpacts.NoticeOfViolation.Xnum={RemediatingAdverseImpacts.Xnum}.<a class='xref' href='{!!!}RemediatingAdverseImpacts.NoticeOfViolation.Sec'>1</a>
-RemediatingAdverseImpacts.NoticeOfViolation.4.Xnum={RemediatingAdverseImpacts.Xnum}.<a class='xref' href='{!!!}RemediatingAdverseImpacts.NoticeOfViolation.4.sec'>1.(d)</a>
-RemediatingAdverseImpacts.RemediationPlan.2.Xnum={RemediatingAdverseImpacts.Xnum}.<a class='xref' href='{!!!}RemediatingAdverseImpacts.RemediationPlan.2.sec'>3(b)</a>
-RemediatingAdverseImpacts.RemediationPlan.6.Xnum={RemediatingAdverseImpacts.Xnum}.<a class='xref' href='{!!!}RemediatingAdverseImpacts.RemediationPlan.6.sec'>3(f)</a>
-RemediatingAdverseImpacts.RemediationPlan.Xnum={RemediatingAdverseImpacts.Xnum}.<a class='xref' href='{!!!}RemediatingAdverseImpacts.RemediationPlan.sec'>3</a>
-RemediatingAdverseImpacts.RightToCure.2.Xnum={RemediatingAdverseImpacts.Xnum}.<a class='xref' href='{!!!}RemediatingAdverseImpacts.RightToCure.2.sec'>4(b)</a>
+
+RemediatingAdverseImpacts.NoticeOfViolation.SchedulePBreach.Xnum={RemediatingAdverseImpacts.NoticeOfViolation.Xnum}<a class='xref' href='{!!!}RemediatingAdverseImpacts.NoticeOfViolation.SchedulePBreach.sec'>(a)</a>
+
+RemediatingAdverseImpacts.NoticeOfViolation.NoticeContact.Xnum={RemediatingAdverseImpacts.NoticeOfViolation.Xnum}<a class='xref' href='{!!!}RemediatingAdverseImpacts.NoticeOfViolation.NoticeContact.sec'>(c)</a>
+
+RemediatingAdverseImpacts.RemediationPlan.Xnum={RemediatingAdverseImpacts.Xnum}.<a class='xref' href='{!!!}RemediatingAdverseImpacts.RemediationPlan.Sec'>3</a>
+
+RemediatingAdverseImpacts.RemediationPlan.2.Xnum={RemediatingAdverseImpacts.RemediationPlan.Xnum}<a class='xref' href='{!!!}RemediatingAdverseImpacts.RemediationPlan.2.sec'>(b)</a>
+
+RemediatingAdverseImpacts.RemediationPlan.5.Xnum={RemediatingAdverseImpacts.RemediationPlan.Xnum}<a class='xref' href='{!!!}RemediatingAdverseImpacts.RemediationPlan.5.sec'>(e)</a>
+
+RemediatingAdverseImpacts.RemediationPlan.6.Xnum={RemediatingAdverseImpacts.RemediationPlan.Xnum}<a class='xref' href='{!!!}RemediatingAdverseImpacts.RemediationPlan.6.sec'>(f)</a>
+
+RemediatingAdverseImpacts.RightToCure.Xnum={RemediatingAdverseImpacts.Xnum}.<a class='xref' href='{!!!}RemediatingAdverseImpacts.RightToCure.Sec'>4</a>
+
+RemediatingAdverseImpacts.RightToCure.1.Xnum={RemediatingAdverseImpacts.RightToCure.Xnum}<a class='xref' href='{!!!}RemediatingAdverseImpacts.RightToCure.1.sec'>(a)</a>
+
+RemediatingAdverseImpacts.RightToCure.2.Xnum={RemediatingAdverseImpacts.RightToCure.Xnum}<a class='xref' href='{!!!}RemediatingAdverseImpacts.RightToCure.2.sec'>(b)</a>
+
 RemediatingAdverseImpacts.RightToCure.Xnum={RemediatingAdverseImpacts.Xnum}.<a class='xref' href='{!!!}RemediatingAdverseImpacts.RightToCure.Sec'>4</a>
 RemediatingAdverseImpacts.RightToTerminate.Xnum={RemediatingAdverseImpacts.Xnum}.<a class='xref' href='{!!!}RemediatingAdverseImpacts.RightToTerminate.Sec'>5</a>
 
@@ -73,13 +98,40 @@ RejectionOfGoods.4.1.Xnum={RejectionOfGoods.Xnum}.<a class='xref' href='{!!!}Rej
 RevocationOfAcceptance.Xnum=<a class='xref' href='{!!!}RevocationOfAcceptance.Sec'>4</a>
 
 BuyerRemedy.Xnum=<a class='xref' href='{!!!}BuyerRemedy.Sec'>6</a>
+
 BuyerRemedy.2.Xnum={BuyerRemedy.Xnum}.<a class='xref' href='{!!!}BuyerRemedy.2.Sec'>2</a>
-BuyerRemedy.2.5.Xnum={BuyerRemedy.Xnum}.<a class='xref' href='{!!!}BuyerRemedy.2.5.sec'>2(e)</a>
-BuyerRemedy.5.1.Xnum={BuyerRemedy.Xnum}.<a class='xref' href='{!!!}BuyerRemedy.5.1.sec'>5(a)</a>
+BuyerRemedy.2.5.Xnum={BuyerRemedy.2.Xnum}<a class='xref' href='{!!!}BuyerRemedy.2.5.sec'>(e)</a>
+
+BuyerRemedy.5.Xnum={BuyerRemedy.Xnum}.<a class='xref' href='{!!!}BuyerRemedy.5.Sec'>5</a>
+
+BuyerRemedy.5.1.Xnum={BuyerRemedy.5.Xnum}<a class='xref' href='{!!!}BuyerRemedy.5.1.sec'>(a)</a>
+
+Disclaim.Xnum=<a class='xref' href='{!!!}Disclaim.Sec'>7</a>
 
 DisputeResolution.Xnum=<a class='xref' href='{!!!}DisputeResolution.Sec'>8</a>
-DisputeResolution.4.Xnum={DisputeResolution.Xnum}.<a class='xref' href='{!!!}DisputeResolution.4.Sec'>4</a>
-DisputeResolution.5.Xnum={DisputeResolution.Xnum}.<a class='xref' href='{!!!}DisputeResolution.5.Sec'>5</a>
-DisputeResolution.6.Xnum={DisputeResolution.Xnum}.<a class='xref' href='{!!!}DisputeResolution.6.Sec'>6</a>
+
+DisputeResolution.Amiable.Xnum={DisputeResolution.Xnum}.<a class='xref' href='{!!!}DisputeResolution.Amiable.Sec'>4</a>
+
+DisputeResolution.Mediate.Xnum={DisputeResolution.Xnum}.<a class='xref' href='{!!!}DisputeResolution.Mediate.Sec'>5</a>
+
+DisputeResolution.Formal.Xnum={DisputeResolution.Xnum}.<a class='xref' href='{!!!}DisputeResolution.Formal.Sec'>6</a>
 
 !!!=#
+
+!!!!=</a>
+
+ObligationToCombatAbuse.!!!={!!!}ObligationToCombatAbuse.
+
+RemediatingAdverseImpacts.!!!={!!!}RemediatingAdverseImpacts.
+
+RejectionOfGoods.!!!={!!!}RejectionOfGoods.
+
+RevocationOfAcceptance.!!!={!!!}RevocationOfAcceptance.
+
+NonvariationOfScheduleP.!!!={!!!}NonvariationOfScheduleP.
+
+BuyerRemedy.!!!={!!!}BuyerRemedy.
+
+Disclaim.!!!={!!!}Disclaim.
+
+DisputeResolution.!!!={!!!}DisputeResolution.
